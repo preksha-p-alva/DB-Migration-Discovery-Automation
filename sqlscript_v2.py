@@ -1,4 +1,4 @@
-#Saves the output to output.txt file
+# Saves the output to output.txt file
 
 import mysql.connector
 
@@ -15,10 +15,9 @@ conn = mysql.connector.connect(
 )
 
 output_file = open("output.txt", "w")
-
 while True:
     # Prompt user for options
-    print("\nOptions:")
+    print("\n Options:")
     print("1) General queries")
     print("2) Database specific")
     print("3) Exit")
