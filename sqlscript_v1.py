@@ -1,9 +1,9 @@
 import mysql.connector
 
 # Connection details
-server = '35.200.179.36' # PubliC IP of the VM
-username = 'preksha' # New user and password created in Step 5.5
-password = 'Mysql@12'
+server = '<IP-address>' # PubliC IP of the VM
+username = '<username>' # New user and password created
+password = '<password>'
 # Establish connection
 conn = mysql.connector.connect(
     host=server,
