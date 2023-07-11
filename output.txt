@@ -1,0 +1,14 @@
+
+DB Version: 8.0.33
+Number of Databases in a given server: 5
+Cumulative Table Size: 2
+Size of each DB: [('classicmodels', Decimal('524288')), ('information_schema', Decimal('0')), ('mysql', Decimal('2736128')), ('performance_schema', Decimal('0')), ('sys', Decimal('16384'))]
+GTID Mode: OFF
+Replication: OFF
+Binlog status: ON
+Binlog format: ROW
+Log Extension Period: 0
+
+DB Engine: InnoDB
+Total tables in DB: 8
+Size of all tables in MB: 0
